@@ -5,9 +5,19 @@ td{
     border-collapse:collapse;
 }
 table{
-    width: 100%;
+    width: 50%;
 }
 th{
     height: 70px;
+}
+td{
+    padding: 10px;
+}
+.table_style{
+    color: red;
+}
+div.table_style{
+    color: green;
+    background-color: blue;
 }
   
