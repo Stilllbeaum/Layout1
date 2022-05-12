@@ -1,0 +1,20 @@
+table,
+th,
+td{
+    border: 2px solid #5c7998;
+    color: #cc889d;
+}
+table{
+    width: 50%;
+}
+th{
+    padding: 15px;
+}
+td{
+    padding: 15px;
+    height: 150px;
+    color: #7b78b8;
+}
+tr{
+    text-align: center;
+}
