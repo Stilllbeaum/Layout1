@@ -1,0 +1,22 @@
+table,
+th,
+td{
+    border: 2px solid red;
+    color: skyblue;
+}
+table{
+    width: 50%;
+}
+th{
+    padding: 15px;
+}
+td{
+    padding: 15px;
+    height: 150px;
+}
+tr{
+    text-align: center;
+}
+div.table_style{
+    color: skyblue;
+}
